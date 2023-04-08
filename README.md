@@ -1,0 +1,1 @@
+Terrain Helper is an editor extension for Unity that provides some tools to import/export different aspects of terrains as well as to convert terrains to a mesh.

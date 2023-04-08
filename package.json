@@ -1,0 +1,13 @@
+{
+  "name": "com.GameDevEducation.TerrainHelper",
+  "version": "1.0.3",
+  "displayName": "Terrain Helper",
+  "description": "Helper utilities for working with terrain",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "keywords": [
+    "Editor",
+    "Terrain",
+    "Utility"
+  ]
+}
